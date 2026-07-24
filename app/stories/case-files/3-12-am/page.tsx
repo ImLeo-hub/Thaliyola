@@ -522,6 +522,11 @@ export default function Case001Page() {
 
             "ഇത് വീണ്ടും ആരംഭിച്ച അതേ pattern ആണ്."
           </p>
+          {/* CHAPTER 3 */}
+
+<h2 className="text-3xl text-[#F5D76E] font-bold mb-8 mt-16">
+  Chapter 3 – The Old Connection
+</h2>
 
         </article>
 
